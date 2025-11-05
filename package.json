@@ -1,0 +1,22 @@
+{
+  "name": "sistema-padaria",
+  "version": "1.0.0",
+  "description": "Sistema completo para gerenciamento de padaria",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "padaria",
+    "nodejs",
+    "sistema",
+    "gerenciamento"
+  ],
+  "author": "Aluno do Curso",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

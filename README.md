@@ -1,1 +1,1 @@
-# exercicios.js
+# exercicio.js
